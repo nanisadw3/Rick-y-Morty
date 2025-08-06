@@ -1,0 +1,19 @@
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\rick y morty.exe.config
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\rick y morty.exe
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\rick y morty.pdb
+C:\Users\inaki\source\repos\rick y morty\rick y morty\obj\Debug\rick y morty.csproj.AssemblyReference.cache
+C:\Users\inaki\source\repos\rick y morty\rick y morty\obj\Debug\rick_y_morty.Form1.resources
+C:\Users\inaki\source\repos\rick y morty\rick y morty\obj\Debug\rick_y_morty.Properties.Resources.resources
+C:\Users\inaki\source\repos\rick y morty\rick y morty\obj\Debug\rick y morty.csproj.GenerateResource.cache
+C:\Users\inaki\source\repos\rick y morty\rick y morty\obj\Debug\rick y morty.csproj.CoreCompileInputs.cache
+C:\Users\inaki\source\repos\rick y morty\rick y morty\obj\Debug\rick y morty.exe
+C:\Users\inaki\source\repos\rick y morty\rick y morty\obj\Debug\rick y morty.pdb
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\images\Cornvelious_D.png
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\images\Fondo.jpg
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\images\Morty.png
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\images\Morty_M.png
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\images\Ryck.png
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\images\Ryck_P.png
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\images\Titulo.png
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\monsters\monstruos.txt
+C:\Users\inaki\source\repos\rick y morty\rick y morty\bin\Debug\images\Rand.png

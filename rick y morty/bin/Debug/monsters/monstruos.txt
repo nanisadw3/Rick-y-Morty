@@ -1,0 +1,5 @@
+50,Evil Morty,3,20
+50,Rick Prime,3,20
+50,Cornvelious,3,20
+50,Rand,3,20
+50,Rand,3,20
